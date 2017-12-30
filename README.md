@@ -12,7 +12,7 @@ Frame data is already available at other apps and sites, such as Kurogane Hammer
 
 ## Does FGQL come with frame data?
 
-As of now, no. The database is completely empty, you're supposed to fill it with the frame data. However, I might add scripts with the frame data for some games.
+As of now, no. The database is completely empty, you're supposed to fill it with the frame data. However, I might add scripts with the frame data for some games in the future.
 
 ## Is FGQL game-specific?
 
