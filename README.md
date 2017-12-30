@@ -29,6 +29,9 @@ MariaDB is the recommended DBMS. However, it should also work on MySQL. Other DB
 # Special thanks
 
 [RockShooter](https://twitter.com/RicardoRockShoo), who first introduced me into frame data.
+
 [Core-A Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg), who taught me a lot about fighting games.
+
 [Sorges](https://twitter.com/sorges007), [Watakamaku](https://twitter.com/Watakamaku10), [Brío](https://twitter.com/BrioMc) and [Kaysabio](https://twitter.com/juanlups11), my eternal rivals in fighting games.
+
 [Shiro](https://twitter.com/Masahiro_Shiro) and [XenoM](https://twitter.com/XenoM1315), who showed me the wonders of FGC.
